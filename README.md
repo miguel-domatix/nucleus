@@ -2,7 +2,8 @@
 
 Nucleus is a Odoo Json RPC client for Android. This RPC let you to adapt some Odoo module to Android in a simple way.
 
-[<img src=""]
+[<img src="https://github.com/miguel-domatix/nucleus/blob/master/android/doc/sales.png"
+      alt="Image sale"]
 
 # How to use
 
@@ -12,4 +13,4 @@ Login Account related fuctionally can be access using `Context`'s [Extension fun
 
 ## License
 
-The gem is avalible as open source under the terms of the [MIT License] (http://opensource.org/licenses/MIT).
+The gem is avalible as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
