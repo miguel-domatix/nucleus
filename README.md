@@ -2,11 +2,9 @@
 
 Nucleus is a Odoo Json RPC client for Android. This RPC let you to adapt some Odoo module to Android in a simple way.
 
-![alt text](https://github.com/miguel-domatix/nucleus/blob/master/android/doc/sales.png](https://github.com/miguel-domatix/nucleus/blob/master/android/doc/sales.png =200x200)
+<img src="https://github.com/miguel-domatix/nucleus/blob/master/android/doc/sales.png"  alt="image example" width="200"/>
 
-![alt text](https://github.com/miguel-domatix/nucleus/blob/master/android/doc/Peek%2028-05-2019%2012-34.gif =200x200)
-
-![alt text](https://github.com/miguel-domatix/nucleus/blob/master/android/doc/Peek%2028-05-2019%2012-36.gif =200x200)
+![alt text](https://github.com/miguel-domatix/nucleus/blob/master/android/doc/Peek%2028-05-2019%2012-34.gif)
 
 ## How to use
 
